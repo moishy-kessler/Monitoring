@@ -1,0 +1,21 @@
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.pStyle{
+    columns: 3;
+    text-align: justify;
+}
+.link{
+    transition: 1000ms;
+    color: black;
+}
+.link:hover{
+transform: scale(1.5);
+color: red;
+}
+.active{
+    color: white;
+}
