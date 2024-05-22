@@ -45,12 +45,12 @@ const handleShow = () => setShow(true);
             <div className="col-4 border border-1 border-dark rounded-2">
                 <p>erorr</p>
                 <ul>
-                    <li>ygfyhvbjn</li>
-                    <li>lnhlhnl</li>
-                    <li>jbhkhbkbn</li>
-                    <li>kjbkbn</li>
-                    <li>lknkhhnl</li>
-                    <li>ljnnlkn</li>
+                    <li>login</li>
+                    <li>system</li>
+                    <li>activ</li>
+                    <li>eroor</li>
+                    <li>secces</li>
+                    <li>alow</li>
                 </ul>
             </div>
             </div>

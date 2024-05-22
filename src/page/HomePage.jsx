@@ -11,12 +11,9 @@ const HomePage = () => {
               key={item.id}
               name = {item.name}
               />
-
       });
       return compsArr;
-
   }
-
   return (
     <div>
       <Header/>
